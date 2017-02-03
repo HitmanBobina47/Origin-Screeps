@@ -1,0 +1,1 @@
+"**/*.js": "copy ${file} C:\\Users\\ManleyMan2002\\AppData\\Local\\Screeps\\scripts\\screeps.com\\go.origin\\${file}"
